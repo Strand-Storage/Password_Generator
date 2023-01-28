@@ -7,7 +7,7 @@ The app is written in C# Visual Studio 2022
 **Todo**
 1. Code Checkbox options, for different character types
 2. Add graphics 3D and better color combination
-3. Add "? HelpProvider" to all choices
+3. Add "? HelpProvider" Simple strings that appear in pop-up windows
 4. Add a stronger password genarator code
 5. Make a mutch better README.md (:
 
