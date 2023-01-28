@@ -1,4 +1,4 @@
-# Password-Generator
+![Password-Generator](PassGen.jpg)
 
 This is an easy-to-use desktop app for generating custom passwords. It is fully mouse-interface point-and-click, and allows the user to customize their password for different environments.
 
